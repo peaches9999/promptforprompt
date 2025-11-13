@@ -1,7 +1,15 @@
-Data visualization
-“Show me profits in September.”
-“Trend orders in September.”
-“Show revenue by region in September.”
+Example of Adobe AI Assistant Prompts:
+"What is a data view?"
+"How do I bring my AA projects to CJA?"
+"Trend events from last month?"
+"Show sessions by month this year"
+"Show the top 25 page names from last month"
+"Breakdown by top page names"
+“Show me sessions in September.”
+“Trend sessions this month.”
+"Create a bar chart for sessions"
+"Create a donut chart for page names"
+“Show sessions by state from last month.”
 “Share of revenue by product category.”
 “Orders by day of week, from January to May.”
 “Show orders by gender, from March to June.”
@@ -10,9 +18,3 @@ Data visualization
 “What were my top 10 SKUs by profit in September?”
 “Proportion of purchases by month of year.”
 “Total profit in September.”
-"What is a data view?"
-"How do I bring my AA projects to CJA?"
-"Trend events last month?"
-"Show sessions by month this year"
-"Show the top 25 page names from last month"
-"Breakdown by top page names"
